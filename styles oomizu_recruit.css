@@ -1,0 +1,220 @@
+.ヘッダーロゴ {
+  
+  max-width: 240px;
+  margin: 20px 0 0 22px;
+}
+
+
+h2 {
+  float: none;
+  width: 100%;
+  padding: 0 20px 20px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+a{
+  display:inline-block;/*コレ*/
+  }
+  .entry_btn{
+  text-align:center;
+  position: fixed;
+  position: fixed;
+  top: 10px; 
+  right: 10px;
+  padding: 6px 40px;
+  }
+
+  
+  .mail_btn {
+    color: #fff;
+    background-color:#00FF00;
+    width:10vw;
+    height:5vw;
+    line-height:5vw;
+    border-radius:5px;
+    text-decoration: none;
+
+  }
+  
+  .mail_btn:hover {
+    color: #fff;
+    
+  }
+  
+  .tel_btn {
+    color: #fff;
+    background-color:#0000FF;
+    width:10vw;
+    height:5vw;
+    line-height:5vw;
+    border-radius:5px;
+    text-decoration: none;
+
+  }
+  
+  .tel_btn:hover {
+    color: #fff;
+    
+  }
+  
+  
+  
+
+  
+
+.oomizu_recruit_header_photo_1{
+  width : 80vw ; 
+  margin: 5%; 
+}
+
+
+
+.recrtuit_catch_copy1 {
+  
+  background:repeating-linear-gradient(
+    45deg,     /* 角度の指定 */
+    #fff,      /* 色A ... 開始 */
+    #fff 3px,  /* 色A ... 終了 */
+    #DDDDDD  3px,      /* 色B ... 開始 */
+    #EEEEEE 6px   /* 色B ... 終了 */
+  );
+color:fuchsia
+}
+
+
+
+table {
+  border: 2px solid #7facc9;
+  font: 100%;
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+
+
+
+table.entrance_list td {
+  padding: 10px;
+  border: 1px solid #D9D9D9;
+  background: #fff;
+  text-align: left;
+  vertical-align: middle;
+}
+table.entrance_list th{
+  padding: 10px;
+  border: 1px solid #D9D9D9;
+  background: #fff;
+  text-align: left;
+  vertical-align: middle;
+}
+
+
+/* contact_area */
+
+.コンタクトセクション {
+  padding: 40px 30px;
+  background-color: #f7f7f7;
+  
+
+}
+.コンタクトタイトルトップ {
+margin-bottom: 2px;
+padding: 40px 15px 35px;
+background-color: #fff;
+}
+.コンタクトタイトルテキスト1{
+position: relative;
+margin-bottom: 32px;
+padding-bottom: 18px;
+text-align: center;
+}
+
+.お問い合わせ {
+display: block;
+margin-bottom: 3px;
+font-size: 2.3rem;
+text-align: center;
+}
+.Contact {
+display: block;
+font-size: 1.4rem;
+letter-spacing: 0.05em;
+text-align: center;
+}
+
+
+.コンタクトタイトルテキスト2 {
+text-align: center;
+font-size: 1.2rem;
+line-height: 1.6;
+}
+.コンタクトテレフォン {
+margin-bottom: 25px;
+text-align: center;
+
+}
+.コンタクトアドレス {
+padding: 35px 35px 35px;
+background-color: #fff;
+width: 50vw;
+margin: 0% auto;
+}
+
+
+.コンタクトテレフォンナンバー{
+position: relative;
+display: inline-block;
+font-family: 'Oswald';
+font-weight: 400;
+margin-bottom: 5px;
+padding-left: 26px;
+font-size: 8.5vw;
+line-height: 1.0;
+letter-spacing: 0.02em;
+
+
+}
+.コンタクトテレフォン受付{
+margin-left: 20px;
+font-size: 1.1rem;
+}
+
+
+
+.コンタクトフォーム {
+display: block;
+padding: 20px 10px;
+border-radius: 5px;
+background-color: #0cb59b;
+text-align: center;
+color: #fff;
+font-size: 1.4rem;
+transition: all .2s;
+}
+
+
+/*footer_area*/
+
+.フッターロゴエリア{
+  padding: 0 40px;
+}
+
+.フッターロゴ{
+  width: 75%;
+  margin-bottom: 10px;
+
+}
+
+.フッターアドレス {
+  margin-bottom: 40px;
+  font-size: 1.2rem;
+}
+
+.コピーライト {
+  font-family: 'Overpass', sans-serif;
+  font-weight: 600;
+  padding: 0 40px 18px;
+  letter-spacing: 0.01em;
+  font-size: 1.0rem;
+}
